@@ -6,5 +6,6 @@
 </head>
 <body>
 	<?php print phpinfo(); ?>
+	nueva linea para subir
 </body>
 </html>
