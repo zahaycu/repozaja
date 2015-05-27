@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Zahay Cruz Prueba</title>
 </head>
 <body>
 	<?php print phpinfo(); ?>
