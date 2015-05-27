@@ -6,6 +6,6 @@
 </head>
 <body>
 	<?php print phpinfo(); ?>
-	nueva linea para subir
+	nueva linea para subir 2
 </body>
 </html>
