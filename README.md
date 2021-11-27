@@ -1,5 +1,4 @@
 repozaja
 ========
 
-mi repositorio de prueba.
-visto desde vscode.dev
+Mi repositorio de prueba. Visto desde vscode.dev
