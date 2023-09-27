@@ -7,5 +7,6 @@
 <body>
 	<?php print phpinfo(); ?>
 	nueva linea para subir 2
+	otro cambio a subir
 </body>
 </html>
